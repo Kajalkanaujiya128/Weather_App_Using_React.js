@@ -24,7 +24,7 @@ A responsive Weather Forecast Application developed using React.js with real-tim
 
 React.js
 
-JavaScript (ES6+)
+JavaScript 
 
 HTML
 
